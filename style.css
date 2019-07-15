@@ -1,0 +1,60 @@
+header {
+    background: #ebebeb;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+
+
+
+body{
+    font-style: Arial;
+    color: #777777;
+    backround: #777777;
+    width: 960px;
+    font-size: 18px;
+}
+
+nav{
+    background: #ebebeb;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+section{
+    background: #ebebee;
+    float: left;
+    width: 100px;
+    height: 100px;
+    z-index: 0;
+}
+
+aside{
+    background: #ebebee;
+    height: 100px;
+    width: 100px;
+    float: right;
+    text-align: center;
+}
+
+Footer{
+    background: #ebebee;
+    width: 100%;
+    height: 50px;
+}
+
+article{
+    color: #db0000;
+    background: #ebebeb;
+    float: left;
+    z-index: 1;
+    height: 50px;
+    width: 50px;
+}
+
+h1{
+    color: #777777;
+    background: #ebebeb;
+    width: 495px
+}
