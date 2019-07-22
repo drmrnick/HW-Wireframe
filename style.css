@@ -29,14 +29,15 @@ nav{
 
 
 #section{
-    float: left;
     background: #ebebeb;
-    width: 40%;
     height: 200px;
-    inline-size: 47%;
-    border: 2px;
+    width: 30%;
+    float: left;
     text-align: center;
-    padding: 10px;
+    border: 2px;
+    inline-size: 47%;
+    padding: 15px;
+
 }
 
  #aside{
@@ -47,7 +48,13 @@ nav{
     text-align: center;
     border: 2px;
     inline-size: 47%;
-    padding: 10px;
+    padding: 15px;
+}
+
+#article{
+    height: 250px;
+    width: 35%x;
+    background: grey;
 }
 
 Footer{
@@ -58,6 +65,7 @@ Footer{
     width: 100%;
     background: #ebebee;
     text-align: center;
+    margin: 10px; 
 }
 
 
